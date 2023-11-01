@@ -15,7 +15,7 @@ I'm a Full Stack Software engineer I thrive on the balance between development a
 ### Full Stack Application Developer
 
 <p align="left">
-<a href="https://github.com/Kerwindows/Kerwindows/blob/main/files/front-end.png" target="_blank" rel="noreferrer"><img src="https://github.com/Kerwindows/Kerwindows/blob/main/files/front-end.png" width="36" height="36" alt="JavaScript" /></a> <a href="https://github.com/Kerwindows/Kerwindows/blob/main/files/react-dev.png" target="_blank" rel="noreferrer"><img src="https://github.com/Kerwindows/Kerwindows/blob/main/files/react-dev.png" width="36" height="36" alt="JavaScript" /></a>
+<a href="https://github.com/Kerwindows/Kerwindows/blob/main/files/front-end.png" target="_blank" rel="noreferrer"><img src="https://github.com/Kerwindows/Kerwindows/blob/main/files/front-end.png" width="100" height="100" alt="JavaScript" /></a> <a href="https://github.com/Kerwindows/Kerwindows/blob/main/files/react-dev.png" target="_blank" rel="noreferrer"><img src="https://github.com/Kerwindows/Kerwindows/blob/main/files/react-dev.png" width="75" height="75" alt="JavaScript" /></a>
 </p>
 
 ### Skills
