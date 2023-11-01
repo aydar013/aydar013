@@ -12,6 +12,11 @@ I'm a Full Stack Software engineer I thrive on the balance between development a
 * 🤝  I'm open to collaborating on Projects
 * ⚡  I love playing sports, especially volleyball and tennis! Let's play one day
 
+### Full Stack Application Developer
+
+https://github.com/Kerwindows/Kerwindows/blob/main/files/front-end.png
+https://github.com/Kerwindows/Kerwindows/blob/main/files/react-dev.png
+
 ### Skills
 
 
