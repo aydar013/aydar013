@@ -8,7 +8,7 @@ I'm a Full Stack Software engineer I thrive on the balance between development a
 
 * 🌍  I'm based in Los Angeles, CA
 * 🖥️  See my portfolio at [My Portfolio](http://aidar-portfolio.pro/)
-* ✉️  You can contact me at [Aydar0013@gmail.com](mailto:Aydar0013@gmail.com)
+* ✉️  You can contact me at [aidar.shaidullin.it@gmail.com](mailto:aidar.shaidullin.it@gmail.com)
 * 🤝  I'm open to collaborating on Projects
 * ⚡  I love playing sports, especially volleyball and tennis! Let's play one day
 
